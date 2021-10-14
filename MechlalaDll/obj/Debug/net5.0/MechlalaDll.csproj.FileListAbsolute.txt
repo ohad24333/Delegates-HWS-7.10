@@ -1,0 +1,12 @@
+C:\Users\ohad2\source\repos\MechlalaDll\bin\Debug\net5.0\MechlalaDll.deps.json
+C:\Users\ohad2\source\repos\MechlalaDll\bin\Debug\net5.0\MechlalaDll.dll
+C:\Users\ohad2\source\repos\MechlalaDll\bin\Debug\net5.0\ref\MechlalaDll.dll
+C:\Users\ohad2\source\repos\MechlalaDll\bin\Debug\net5.0\MechlalaDll.pdb
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.csproj.AssemblyReference.cache
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.AssemblyInfoInputs.cache
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.AssemblyInfo.cs
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.csproj.CoreCompileInputs.cache
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.dll
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\ref\MechlalaDll.dll
+C:\Users\ohad2\source\repos\MechlalaDll\obj\Debug\net5.0\MechlalaDll.pdb
