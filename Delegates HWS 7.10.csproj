@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Delegates_HWS_7._10</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MechlalaDll\MechlalaDll.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MechlalaDll">
+      <HintPath>..\MechlalaDll\obj\Debug\net5.0\MechlalaDll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
